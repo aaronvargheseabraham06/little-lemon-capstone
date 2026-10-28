@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Little Lemon",
+    "slug": "little-lemon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["ios", "android"]
+  }
+}
